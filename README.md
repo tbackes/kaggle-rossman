@@ -8,6 +8,7 @@ Did some feature engineering to create the following columns:
 - Promo open time (months)
 - Month
 - Week of year
+
 Following have been dummied:
 - Promo interval month
 - State Holiday
